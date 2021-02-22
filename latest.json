@@ -1,0 +1,706 @@
+{[
+  {
+    dirent: Dirent { name: '2021', [Symbol(type)]: 2 },
+    name: '2021',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021'
+  },
+  {
+    dirent: Dirent { name: '01', [Symbol(type)]: 2 },
+    name: '01',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01'
+  },
+  {
+    dirent: Dirent { name: '02', [Symbol(type)]: 2 },
+    name: '02',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02'
+  },
+  {
+    dirent: Dirent { name: 'CRMR-BML-Logo-1024x1019.png', [Symbol(type)]: 1 },
+    name: 'CRMR-BML-Logo-1024x1019.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-BML-Logo-1024x1019.png',
+    ext: '.png',
+    dim: { height: 1019, width: 1024, type: 'png' },
+    size: 58548,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-BML-Logo-1024x1019.png',
+    dim_new: { width: 1024, height: 1019 },
+    size_new: 74193,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'CRMR-BML-Logo-150x150.png', [Symbol(type)]: 1 },
+    name: 'CRMR-BML-Logo-150x150.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-BML-Logo-150x150.png',
+    ext: '.png',
+    dim: { height: 150, width: 150, type: 'png' },
+    size: 5947,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-BML-Logo-150x150.png',
+    dim_new: { width: 150, height: 150 },
+    size_new: 7236,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'CRMR-BML-Logo-300x300.png', [Symbol(type)]: 1 },
+    name: 'CRMR-BML-Logo-300x300.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-BML-Logo-300x300.png',
+    ext: '.png',
+    dim: { height: 300, width: 300, type: 'png' },
+    size: 13499,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-BML-Logo-300x300.png',
+    dim_new: { width: 300, height: 300 },
+    size_new: 16958,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'CRMR-BML-Logo-768x764.png', [Symbol(type)]: 1 },
+    name: 'CRMR-BML-Logo-768x764.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-BML-Logo-768x764.png',
+    ext: '.png',
+    dim: { height: 764, width: 768, type: 'png' },
+    size: 42576,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-BML-Logo-768x764.png',
+    dim_new: { width: 768, height: 764 },
+    size_new: 54668,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'CRMR-BML-Logo.png', [Symbol(type)]: 1 },
+    name: 'CRMR-BML-Logo.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-BML-Logo.png',
+    ext: '.png',
+    dim: { height: 1036, width: 1041, type: 'png' },
+    size: 23588,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-BML-Logo.png',
+    dim_new: { width: 1041, height: 1036 },
+    size_new: 50103,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'CRMR-Deer-Lodge-Logo-White-1064x1536.png',
+      [Symbol(type)]: 1
+    },
+    name: 'CRMR-Deer-Lodge-Logo-White-1064x1536.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-Deer-Lodge-Logo-White-1064x1536.png',
+    ext: '.png',
+    dim: { height: 1536, width: 1064, type: 'png' },
+    size: 147258,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-Deer-Lodge-Logo-White-1064x1536.png',
+    dim_new: { width: 1064, height: 1536 },
+    size_new: 190791,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'CRMR-Deer-Lodge-Logo-White-150x150.png',
+      [Symbol(type)]: 1
+    },
+    name: 'CRMR-Deer-Lodge-Logo-White-150x150.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-Deer-Lodge-Logo-White-150x150.png',
+    ext: '.png',
+    dim: { height: 150, width: 150, type: 'png' },
+    size: 10292,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-Deer-Lodge-Logo-White-150x150.png',
+    dim_new: { width: 150, height: 150 },
+    size_new: 12524,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'CRMR-Deer-Lodge-Logo-White-208x300.png',
+      [Symbol(type)]: 1
+    },
+    name: 'CRMR-Deer-Lodge-Logo-White-208x300.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-Deer-Lodge-Logo-White-208x300.png',
+    ext: '.png',
+    dim: { height: 300, width: 208, type: 'png' },
+    size: 19661,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-Deer-Lodge-Logo-White-208x300.png',
+    dim_new: { width: 208, height: 300 },
+    size_new: 24581,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'CRMR-Deer-Lodge-Logo-White-710x1024.png',
+      [Symbol(type)]: 1
+    },
+    name: 'CRMR-Deer-Lodge-Logo-White-710x1024.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-Deer-Lodge-Logo-White-710x1024.png',
+    ext: '.png',
+    dim: { height: 1024, width: 710, type: 'png' },
+    size: 91795,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-Deer-Lodge-Logo-White-710x1024.png',
+    dim_new: { width: 710, height: 1024 },
+    size_new: 117550,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'CRMR-Deer-Lodge-Logo-White-768x1108.png',
+      [Symbol(type)]: 1
+    },
+    name: 'CRMR-Deer-Lodge-Logo-White-768x1108.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-Deer-Lodge-Logo-White-768x1108.png',
+    ext: '.png',
+    dim: { height: 1108, width: 768, type: 'png' },
+    size: 101075,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-Deer-Lodge-Logo-White-768x1108.png',
+    dim_new: { width: 768, height: 1108 },
+    size_new: 129590,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'CRMR-Deer-Lodge-Logo-White.png',
+      [Symbol(type)]: 1
+    },
+    name: 'CRMR-Deer-Lodge-Logo-White.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/CRMR-Deer-Lodge-Logo-White.png',
+    ext: '.png',
+    dim: { height: 1915, width: 1327, type: 'png' },
+    size: 68186,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/CRMR-Deer-Lodge-Logo-White.png',
+    dim_new: { width: 1327, height: 1915 },
+    size_new: 163521,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'Logo-150x143.png', [Symbol(type)]: 1 },
+    name: 'Logo-150x143.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/Logo-150x143.png',
+    ext: '.png',
+    dim: { height: 143, width: 150, type: 'png' },
+    size: 7471,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/Logo-150x143.png',
+    dim_new: { width: 150, height: 143 },
+    size_new: 7494,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'Logo-NoText-150x147.png', [Symbol(type)]: 1 },
+    name: 'Logo-NoText-150x147.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/Logo-NoText-150x147.png',
+    ext: '.png',
+    dim: { height: 147, width: 150, type: 'png' },
+    size: 1978,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/Logo-NoText-150x147.png',
+    dim_new: { width: 150, height: 147 },
+    size_new: 1997,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'Logo-NoText.png', [Symbol(type)]: 1 },
+    name: 'Logo-NoText.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/Logo-NoText.png',
+    ext: '.png',
+    dim: { height: 147, width: 244, type: 'png' },
+    size: 2272,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/Logo-NoText.png',
+    dim_new: { width: 244, height: 147 },
+    size_new: 4046,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'Logo.png', [Symbol(type)]: 1 },
+    name: 'Logo.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/Logo.png',
+    ext: '.png',
+    dim: { height: 143, width: 161, type: 'png' },
+    size: 7290,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/Logo.png',
+    dim_new: { width: 161, height: 143 },
+    size_new: 7252,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo-1024x170.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo-1024x170.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo-1024x170.png',
+    ext: '.png',
+    dim: { height: 170, width: 1024, type: 'png' },
+    size: 19238,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo-1024x170.png',
+    dim_new: { width: 1024, height: 170 },
+    size_new: 24458,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo-150x150.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo-150x150.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo-150x150.png',
+    ext: '.png',
+    dim: { height: 150, width: 150, type: 'png' },
+    size: 2901,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo-150x150.png',
+    dim_new: { width: 150, height: 150 },
+    size_new: 3698,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo-1536x256.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo-1536x256.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo-1536x256.png',
+    ext: '.png',
+    dim: { height: 256, width: 1536, type: 'png' },
+    size: 30718,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo-1536x256.png',
+    dim_new: { width: 1536, height: 256 },
+    size_new: 39512,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo-2048x341.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo-2048x341.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo-2048x341.png',
+    ext: '.png',
+    dim: { height: 341, width: 2048, type: 'png' },
+    size: 42277,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo-2048x341.png',
+    dim_new: { width: 1920, height: 320 },
+    size_new: 86268,
+    info_new: { channels: 4, premultiplied: true, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo-300x50.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo-300x50.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo-300x50.png',
+    ext: '.png',
+    dim: { height: 50, width: 300, type: 'png' },
+    size: 5071,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo-300x50.png',
+    dim_new: { width: 300, height: 50 },
+    size_new: 6221,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo-768x128.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo-768x128.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo-768x128.png',
+    ext: '.png',
+    dim: { height: 128, width: 768, type: 'png' },
+    size: 14183,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo-768x128.png',
+    dim_new: { width: 768, height: 128 },
+    size_new: 17972,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'booking.com-logo.png', [Symbol(type)]: 1 },
+    name: 'booking.com-logo.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/booking.com-logo.png',
+    ext: '.png',
+    dim: { height: 414, width: 2488, type: 'png' },
+    size: 41694,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/booking.com-logo.png',
+    dim_new: { width: 1920, height: 319 },
+    size_new: 81671,
+    info_new: { channels: 4, premultiplied: true, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'emerald-lake-lodge-logo-420x250-1-150x150.png',
+      [Symbol(type)]: 1
+    },
+    name: 'emerald-lake-lodge-logo-420x250-1-150x150.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/emerald-lake-lodge-logo-420x250-1-150x150.png',
+    ext: '.png',
+    dim: { height: 150, width: 150, type: 'png' },
+    size: 24859,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/emerald-lake-lodge-logo-420x250-1-150x150.png',
+    dim_new: { width: 150, height: 150 },
+    size_new: 24989,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'emerald-lake-lodge-logo-420x250-1-300x179.png',
+      [Symbol(type)]: 1
+    },
+    name: 'emerald-lake-lodge-logo-420x250-1-300x179.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/emerald-lake-lodge-logo-420x250-1-300x179.png',
+    ext: '.png',
+    dim: { height: 179, width: 300, type: 'png' },
+    size: 41677,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/emerald-lake-lodge-logo-420x250-1-300x179.png',
+    dim_new: { width: 300, height: 179 },
+    size_new: 41812,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'emerald-lake-lodge-logo-420x250-1.png',
+      [Symbol(type)]: 1
+    },
+    name: 'emerald-lake-lodge-logo-420x250-1.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/emerald-lake-lodge-logo-420x250-1.png',
+    ext: '.png',
+    dim: { height: 250, width: 420, type: 'png' },
+    size: 14041,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/emerald-lake-lodge-logo-420x250-1.png',
+    dim_new: { width: 420, height: 250 },
+    size_new: 44224,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'emerald-lake-lodge-logo-420x250-WHITE-150x150.png',
+      [Symbol(type)]: 1
+    },
+    name: 'emerald-lake-lodge-logo-420x250-WHITE-150x150.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/emerald-lake-lodge-logo-420x250-WHITE-150x150.png',
+    ext: '.png',
+    dim: { height: 150, width: 150, type: 'png' },
+    size: 10470,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/emerald-lake-lodge-logo-420x250-WHITE-150x150.png',
+    dim_new: { width: 150, height: 150 },
+    size_new: 12786,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'emerald-lake-lodge-logo-420x250-WHITE-300x179.png',
+      [Symbol(type)]: 1
+    },
+    name: 'emerald-lake-lodge-logo-420x250-WHITE-300x179.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/emerald-lake-lodge-logo-420x250-WHITE-300x179.png',
+    ext: '.png',
+    dim: { height: 179, width: 300, type: 'png' },
+    size: 17377,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/emerald-lake-lodge-logo-420x250-WHITE-300x179.png',
+    dim_new: { width: 300, height: 179 },
+    size_new: 21696,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'emerald-lake-lodge-logo-420x250-WHITE.png',
+      [Symbol(type)]: 1
+    },
+    name: 'emerald-lake-lodge-logo-420x250-WHITE.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/emerald-lake-lodge-logo-420x250-WHITE.png',
+    ext: '.png',
+    dim: { height: 250, width: 419, type: 'png' },
+    size: 20360,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/emerald-lake-lodge-logo-420x250-WHITE.png',
+    dim_new: { width: 419, height: 250 },
+    size_new: 20322,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo-1024x290.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo-1024x290.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo-1024x290.png',
+    ext: '.png',
+    dim: { height: 290, width: 1024, type: 'png' },
+    size: 22997,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo-1024x290.png',
+    dim_new: { width: 1024, height: 290 },
+    size_new: 29805,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo-150x150.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo-150x150.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo-150x150.png',
+    ext: '.png',
+    dim: { height: 150, width: 150, type: 'png' },
+    size: 3013,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo-150x150.png',
+    dim_new: { width: 150, height: 150 },
+    size_new: 3819,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo-1536x435.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo-1536x435.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo-1536x435.png',
+    ext: '.png',
+    dim: { height: 435, width: 1536, type: 'png' },
+    size: 36604,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo-1536x435.png',
+    dim_new: { width: 1536, height: 435 },
+    size_new: 48196,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo-2048x580.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo-2048x580.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo-2048x580.png',
+    ext: '.png',
+    dim: { height: 580, width: 2048, type: 'png' },
+    size: 50667,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo-2048x580.png',
+    dim_new: { width: 1920, height: 544 },
+    size_new: 101400,
+    info_new: { channels: 4, premultiplied: true, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo-300x85.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo-300x85.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo-300x85.png',
+    ext: '.png',
+    dim: { height: 85, width: 300, type: 'png' },
+    size: 5615,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo-300x85.png',
+    dim_new: { width: 300, height: 85 },
+    size_new: 7086,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo-768x217.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo-768x217.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo-768x217.png',
+    ext: '.png',
+    dim: { height: 217, width: 768, type: 'png' },
+    size: 16272,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo-768x217.png',
+    dim_new: { width: 768, height: 217 },
+    size_new: 20839,
+    info_new: { channels: 4, premultiplied: false, format: 'png' }
+  },
+  {
+    dirent: Dirent { name: 'expedia-logo.png', [Symbol(type)]: 1 },
+    name: 'expedia-logo.png',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/01/expedia-logo.png',
+    ext: '.png',
+    dim: { height: 708, width: 2500, type: 'png' },
+    size: 48406,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/01/expedia-logo.png',
+    dim_new: { width: 1920, height: 544 },
+    size_new: 98344,
+    info_new: { channels: 4, premultiplied: true, format: 'png' }
+  },
+  {
+    dirent: Dirent {
+      name: 'BML_Cafe_Treats10-1024x683.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'BML_Cafe_Treats10-1024x683.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/BML_Cafe_Treats10-1024x683.jpg'
+  },
+  {
+    dirent: Dirent { name: 'BML_Cafe_Treats10-150x150.jpg', [Symbol(type)]: 1 },
+    name: 'BML_Cafe_Treats10-150x150.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/BML_Cafe_Treats10-150x150.jpg',
+    ext: '.jpg',
+    dim: { height: 150, orientation: 1, width: 150, type: 'jpg' },
+    size: 20408,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/BML_Cafe_Treats10-150x150.jpg',
+    dim_new: { width: 150, height: 150 },
+    size_new: 3146,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'BML_Cafe_Treats10-1536x1024.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'BML_Cafe_Treats10-1536x1024.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/BML_Cafe_Treats10-1536x1024.jpg',
+    ext: '.jpg',
+    dim: { height: 1024, orientation: 1, width: 1536, type: 'jpg' },
+    size: 197865,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/BML_Cafe_Treats10-1536x1024.jpg',
+    dim_new: { width: 1536, height: 1024 },
+    size_new: 75102,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'BML_Cafe_Treats10-300x200.jpg', [Symbol(type)]: 1 },
+    name: 'BML_Cafe_Treats10-300x200.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/BML_Cafe_Treats10-300x200.jpg',
+    ext: '.jpg',
+    dim: { height: 200, orientation: 1, width: 300, type: 'jpg' },
+    size: 28566,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/BML_Cafe_Treats10-300x200.jpg',
+    dim_new: { width: 300, height: 200 },
+    size_new: 6740,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'BML_Cafe_Treats10-768x512.jpg', [Symbol(type)]: 1 },
+    name: 'BML_Cafe_Treats10-768x512.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/BML_Cafe_Treats10-768x512.jpg',
+    ext: '.jpg',
+    dim: { height: 512, orientation: 1, width: 768, type: 'jpg' },
+    size: 73957,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/BML_Cafe_Treats10-768x512.jpg',
+    dim_new: { width: 768, height: 512 },
+    size_new: 25757,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'BML_Cafe_Treats10.jpg', [Symbol(type)]: 1 },
+    name: 'BML_Cafe_Treats10.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/BML_Cafe_Treats10.jpg',
+    ext: '.jpg',
+    dim: { height: 1280, orientation: 1, width: 1920, type: 'jpg' },
+    size: 354112,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/BML_Cafe_Treats10.jpg',
+    dim_new: { width: 1920, height: 1280 },
+    size_new: 122126,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'ELL-map-1024x426.jpg', [Symbol(type)]: 1 },
+    name: 'ELL-map-1024x426.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL-map-1024x426.jpg',
+    ext: '.jpg',
+    dim: { height: 426, width: 1024, type: 'jpg' },
+    size: 34048,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL-map-1024x426.jpg',
+    dim_new: { width: 1024, height: 426 },
+    size_new: 11053,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'ELL-map-150x150.jpg', [Symbol(type)]: 1 },
+    name: 'ELL-map-150x150.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL-map-150x150.jpg',
+    ext: '.jpg',
+    dim: { height: 150, width: 150, type: 'jpg' },
+    size: 4024,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL-map-150x150.jpg',
+    dim_new: { width: 150, height: 150 },
+    size_new: 1013,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'ELL-map-1536x639.jpg', [Symbol(type)]: 1 },
+    name: 'ELL-map-1536x639.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL-map-1536x639.jpg',
+    ext: '.jpg',
+    dim: { height: 639, width: 1536, type: 'jpg' },
+    size: 73386,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL-map-1536x639.jpg',
+    dim_new: { width: 1536, height: 639 },
+    size_new: 23639,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'ELL-map-300x125.jpg', [Symbol(type)]: 1 },
+    name: 'ELL-map-300x125.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL-map-300x125.jpg',
+    ext: '.jpg',
+    dim: { height: 125, width: 300, type: 'jpg' },
+    size: 5204,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL-map-300x125.jpg',
+    dim_new: { width: 300, height: 125 },
+    size_new: 1416,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'ELL-map-768x320.jpg', [Symbol(type)]: 1 },
+    name: 'ELL-map-768x320.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL-map-768x320.jpg',
+    ext: '.jpg',
+    dim: { height: 320, width: 768, type: 'jpg' },
+    size: 20022,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL-map-768x320.jpg',
+    dim_new: { width: 768, height: 320 },
+    size_new: 6425,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent { name: 'ELL-map.jpg', [Symbol(type)]: 1 },
+    name: 'ELL-map.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL-map.jpg',
+    ext: '.jpg',
+    dim: { height: 799, width: 1920, type: 'jpg' },
+    size: 124742,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL-map.jpg',
+    dim_new: { width: 1920, height: 799 },
+    size_new: 35710,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'ELL_INF_ErikMcRitchie_balcony1-1024x683.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'ELL_INF_ErikMcRitchie_balcony1-1024x683.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL_INF_ErikMcRitchie_balcony1-1024x683.jpg',
+    ext: '.jpg',
+    dim: { height: 683, orientation: 1, width: 1024, type: 'jpg' },
+    size: 144261,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL_INF_ErikMcRitchie_balcony1-1024x683.jpg',
+    dim_new: { width: 1024, height: 683 },
+    size_new: 49461,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'ELL_INF_ErikMcRitchie_balcony1-150x150.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'ELL_INF_ErikMcRitchie_balcony1-150x150.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL_INF_ErikMcRitchie_balcony1-150x150.jpg',
+    ext: '.jpg',
+    dim: { height: 150, orientation: 1, width: 150, type: 'jpg' },
+    size: 30198,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL_INF_ErikMcRitchie_balcony1-150x150.jpg',
+    dim_new: { width: 150, height: 150 },
+    size_new: 4065,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'ELL_INF_ErikMcRitchie_balcony1-1536x1024.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'ELL_INF_ErikMcRitchie_balcony1-1536x1024.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL_INF_ErikMcRitchie_balcony1-1536x1024.jpg',
+    ext: '.jpg',
+    dim: { height: 1024, orientation: 1, width: 1536, type: 'jpg' },
+    size: 244462,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL_INF_ErikMcRitchie_balcony1-1536x1024.jpg',
+    dim_new: { width: 1536, height: 1024 },
+    size_new: 86898,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'ELL_INF_ErikMcRitchie_balcony1-300x200.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'ELL_INF_ErikMcRitchie_balcony1-300x200.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL_INF_ErikMcRitchie_balcony1-300x200.jpg',
+    ext: '.jpg',
+    dim: { height: 200, orientation: 1, width: 300, type: 'jpg' },
+    size: 40777,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL_INF_ErikMcRitchie_balcony1-300x200.jpg',
+    dim_new: { width: 300, height: 200 },
+    size_new: 8444,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'ELL_INF_ErikMcRitchie_balcony1-768x512.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'ELL_INF_ErikMcRitchie_balcony1-768x512.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL_INF_ErikMcRitchie_balcony1-768x512.jpg',
+    ext: '.jpg',
+    dim: { height: 512, orientation: 1, width: 768, type: 'jpg' },
+    size: 101083,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL_INF_ErikMcRitchie_balcony1-768x512.jpg',
+    dim_new: { width: 768, height: 512 },
+    size_new: 32632,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  },
+  {
+    dirent: Dirent {
+      name: 'ELL_INF_ErikMcRitchie_balcony1.jpg',
+      [Symbol(type)]: 1
+    },
+    name: 'ELL_INF_ErikMcRitchie_balcony1.jpg',
+    path: '/var/www/html/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2021/02/ELL_INF_ErikMcRitchie_balcony1.jpg',
+    ext: '.jpg',
+    dim: { height: 1280, orientation: 1, width: 1920, type: 'jpg' },
+    size: 378808,
+    path_bkp: '/opt/barrel/backup/1613956266/2021/02/ELL_INF_ErikMcRitchie_balcony1.jpg',
+    dim_new: { width: 1920, height: 1280 },
+    size_new: 129020,
+    info_new: { channels: 3, premultiplied: false, format: 'jpeg' }
+  }
+]}
